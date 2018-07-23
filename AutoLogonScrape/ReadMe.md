@@ -6,6 +6,12 @@ Needed to write a quick script in order to pull registry values from remote serv
 
 *Note: Run with user account that has local administrative privileges on target system(s).*
 
+Pulls the following information from the registry: 
+- Domain Name
+- Username
+- Password (in plaintext)
+- Whether or not autologon is enabled
+
 
 
 ***Directions for use:***
