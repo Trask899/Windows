@@ -19,4 +19,4 @@ From PowerShell simply run:
 
 Example output looks like this:
 
-[! Example] (ExampleOutput/Example.png)
+![Example](ExampleOutput/Example.png)
