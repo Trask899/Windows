@@ -18,4 +18,7 @@ Pulls the following information from the registry:
 
 Update computers.txt with list of Computer names or IP addresses for target computers
 
-From PowerShell run: .\AutoLogonScrape.ps1
+From PowerShell run: 
+```PowerShell
+.\AutoLogonScrape.ps1
+```
